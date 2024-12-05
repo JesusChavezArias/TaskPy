@@ -6,3 +6,7 @@ ToDoPy es una aplicación de gestión de tareas desarrollada en Python, diseñad
 
 ENG:
 ToDoPy is a task management application developed in Python, designed to help you organize and prioritize your daily activities efficiently. It allows you to create, update, and delete tasks, assign categories or priority levels, and save all the information locally for easy access.
+
+How to install add-on:
+
+pip install colorama
